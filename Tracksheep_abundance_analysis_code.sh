@@ -1,4 +1,4 @@
-####main codes for 微生物驱动性情变异（Tracksheep study）
+####main codes for Microbiota-driven temperament variation（Tracksheep study）
 ###for questions, please contact ShuaiYang (shuai_yang8@stu.njmu.edu.cn)
 
 
